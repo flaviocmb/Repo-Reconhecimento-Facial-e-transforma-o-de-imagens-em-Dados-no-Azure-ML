@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "475a678e-c1da-45cf-8740-54374e43e4d6",
+  "content-length": "171",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a dog sitting on a blanket in a living room",
+    "confidence": 0.851193904876709
+  },
+  "metadata": {
+    "width": 3264,
+    "height": 2448
+  }
+}
